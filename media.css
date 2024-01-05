@@ -1,0 +1,23 @@
+@media screen and (max-width: 544px) {
+	.main {
+		margin: 0%;
+		display: grid;
+		justify-content: center;
+	}
+	.economy {
+		width: 100%;
+		background-color: hsl(31, 77%, 52%);
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+	}
+	.spac {
+		width: 100%;
+		background-color: hsl(184, 100%, 22%);
+	}
+	.best {
+		width: 100%;
+		background-color: hsl(179, 100%, 13%);
+		border-bottom-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+	}
+}
